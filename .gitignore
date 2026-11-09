@@ -1,0 +1,17 @@
+target/
+video_extract/
+.idea/
+*.iml
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+application-local.properties
+application-*.local.properties
